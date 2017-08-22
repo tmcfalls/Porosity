@@ -1,5 +1,5 @@
-**/Debug
-**/.csv
-**/.vcxproj
-**/.vcxproj.filters
+Debug
+*.csv
+*.vcxproj
+*.vcxproj.filters
 
